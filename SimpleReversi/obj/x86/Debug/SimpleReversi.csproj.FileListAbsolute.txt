@@ -1,0 +1,24 @@
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\bin\Debug\SimpleReversi.exe
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\bin\Debug\SimpleReversi.pdb
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.Reversi.resources
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.csproj.GenerateResource.Cache
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.exe
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.pdb
+C:\Users\vox-arc\Documents\Visual Studio 2010\Projects\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.exe
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.pdb
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\bin\Debug\SimpleReversi.exe
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\bin\Debug\SimpleReversi.pdb
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.Reversi.resources
+\\psf\Home\Desktop\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.csproj.GenerateResource.Cache
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.exe
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.pdb
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\bin\Debug\SimpleReversi.exe
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\bin\Debug\SimpleReversi.pdb
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.Reversi.resources
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Documents\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\crwil\Documents\Work\University All\sdf\prev\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.exe
+C:\Users\crwil\Documents\Work\University All\sdf\prev\CADS\SimpleReversi2\SimpleReversi\obj\x86\Debug\SimpleReversi.pdb
